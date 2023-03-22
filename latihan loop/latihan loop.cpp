@@ -23,4 +23,8 @@ using namespace std;
 			cout << "======M E N U======" << endl;
 			cout << "===================" << endl;
 
+			cout << "1. Luas Persegipanjang" << endl;
+			cout << "2. Luas Segitiga" << endl;
+			cout << "3. Luas Lingkaran" << endl;
+			cout << "4. Exit" << endl;
 
