@@ -17,4 +17,10 @@ using namespace std;
 		float panjang, lebar, tinggi, jejari, alas;
 		int pilihan;
 
+		do
+		{
+			cout << "\n\n===================" << endl;
+			cout << "======M E N U======" << endl;
+			cout << "===================" << endl;
+
 
